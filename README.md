@@ -21,6 +21,7 @@ Trying to improove my skills as a software engineer.
 [![http://github.com/Muzikanto](https://img.shields.io/static/v1?label=Backend&message=Yes&color=blue&style=for-the-badge)](http://github.com/Muzikanto)
 [![http://github.com/Muzikanto](https://img.shields.io/static/v1?label=Blockchain&message=Yes&color=yellow&style=for-the-badge)](http://github.com/Muzikanto)
 [![http://github.com/Muzikanto](https://img.shields.io/static/v1?label=GameDev&message=Yes&color=orange&style=for-the-badge)](http://github.com/Muzikanto)
+[![http://github.com/Muzikanto](https://img.shields.io/static/v1?label=DevOps&message=Yes&color=pink&style=for-the-badge)](http://github.com/Muzikanto)
 
 <br/>
 
