@@ -1,6 +1,6 @@
-# Hello Stranger you can call me Luiz!
+# Hello Stranger you can call me Maksim!
 
-## I'm a Software Engineer from Turkey working with software since 2019
+## I'm a Software Engineer from Turkey.
 
 Currently working as a Software Engineer for [Multiverse Fighters](http://mfight.io/)
 
@@ -35,12 +35,12 @@ Trying to improove my skills as a software engineer.
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png">
 
-<img height="80" src="https://github.com/near/nearcore/raw/master/docs/images/logo.svg">
-
 <img height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png">
-<img height="80" src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg">
+<img height="80" width="80" src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg">
+<img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png">
+<img height="80" src="https://github.com/near/nearcore/raw/master/docs/images/logo.svg">
 
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -51,4 +51,6 @@ Trying to improove my skills as a software engineer.
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img height="80" width="80" src="https://assets-global.website-files.com/609187f5748b62af0092bb55/609271d97a19523cfec92c1b_do-logo-white.svg">
+
+
 </div>
