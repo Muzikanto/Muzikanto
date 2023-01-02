@@ -52,6 +52,6 @@ Trying to improove my skills as a software engineer.
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img height="80" width="80" src="https://assets-global.website-files.com/609187f5748b62af0092bb55/609271d97a19523cfec92c1b_do-logo-white.svg">
-
+<img height="80" width="80" src="https://docs.drone.io/favicon.png"/>
 
 </div>
