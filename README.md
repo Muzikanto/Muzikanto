@@ -2,8 +2,6 @@
 
 ## I'm a Software Engineer from Turkey.
 
-Currently working as a Software Engineer for [Multiverse Fighters](http://mfight.io/)
-
 I'm passionate about Typescript, Rust, React, NextJs, NodeJs, NestJs and also taking a look at solidity
 
 Trying to improove my skills as a software engineer.
