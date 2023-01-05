@@ -9,7 +9,6 @@ Trying to improove my skills as a software engineer.
 ## Links
 
 - [Linkedin](https://www.linkedin.com/in/maksim-schiriy/)
-- [HabrCareer](https://career.habr.com/muzikanto)
 - [DevPost](https://devpost.com/Muzikanto)
 
 ## Soft skills
