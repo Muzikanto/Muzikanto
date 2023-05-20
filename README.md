@@ -35,7 +35,7 @@ Trying to improove my skills as a software engineer.
   <img height="80" width="80" src="https://github.com/ant-design.png?size=40">                                                                                                                                                                                                                                                        
 </div>
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
-  <img height="80" src="https://github.com/nestjs.png?size=40">
+  <img height="80" src="https://github.com/nestjs.png?size=80">
   <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png">
   <img height="80" width="80" src="https://github.com/rabbitmq.png?size=80">
