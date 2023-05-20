@@ -49,6 +49,10 @@ Trying to improove my skills as a software engineer.
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-<img height="80" src="https://github.com/grafana/grafana/blob/main/docs/logo-horizontal.png">
-
+                                                                                                                                         
+<img height="50" src="https://github.com/grafana/grafana/blob/main/docs/logo-horizontal.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png">
+<img height="80" src="/maticnetwork/matic-docs/raw/master/static/img/polygon-logo.png">
+       
 </div>
