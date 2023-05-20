@@ -42,9 +42,11 @@ Trying to improove my skills as a software engineer.
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
+  <img height="80" width="80" src="https://github.com/ClickHouse.png?size=40">
   <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
   <img height="80" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
-
+  <img height="80" src="https://github.com/typeorm.png?size=40" />
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
 </div>
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
@@ -52,7 +54,6 @@ Trying to improove my skills as a software engineer.
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
   <img height="50" src="https://github.com/grafana/grafana/blob/main/docs/logo-horizontal.png">
-  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
   <img height="80" width="80" src="https://github.com/prometheus.png?size=80">
   <img height="80" width="80" src="https://github.com/portainer.png?size=80">  
   <img height="80" width="80" src="https://github.com/vercel.png?size=40">                                                                               
