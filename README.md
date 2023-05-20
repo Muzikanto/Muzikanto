@@ -54,6 +54,8 @@ Trying to improove my skills as a software engineer.
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
   <img height="80" width="80" src="https://github.com/prometheus.png?size=80">
 
+</div>
+<div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
   <img height="80" width="80" src="https://github.com/ethereum.png?size=80">
   <img height="80" width="80" src="https://github.com/solana-labs.png?size=80">
   <img height="80" width="80" src="https://github.com/metaplex-foundation.png?size=80">
