@@ -26,26 +26,25 @@ Trying to improove my skills as a software engineer.
 ## Languages, Technologies & Tools
 
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
-
-  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
-  <img height="80" width="80" src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg">
-  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png">
-  <img height="80" width="80" src="https://github.com/ant-design.png?size=40">                                                                                                                        
+  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+  <img height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>
+  <img height="80" width="80" src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg"/>
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png"/>
+  <img height="80" width="80" src="https://github.com/ant-design.png?size=40"/>                                                                                                         
 </div>
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
   <img height="80"  width="80" src="https://github.com/nestjs.png?size=80"/>
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png"/>
-  <img height="80" width="80" src="https://github.com/rabbitmq.png?size=80">
-  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
-  <img height="80" width="80" src="https://github.com/ClickHouse.png?size=40">
-  <img height="80"  width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
-  <img height="80" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
-  <img height="80" src="https://github.com/typeorm.png?size=40" />
+  <img height="80" width="80" src="https://github.com/rabbitmq.png?size=80"/>
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/>
+  <img height="80" width="80" src="https://github.com/ClickHouse.png?size=40"/>
+  <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"/>
+  <img height="80" width="80" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+  <img height="80" width="80" src="https://github.com/typeorm.png?size=40" />
 </div>
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
   <img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
