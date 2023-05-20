@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer from Turkey.
 
-I'm passionate about Typescript, Rust, React, NextJs, NestJs, Blockchain (solidity, rust) and also taking a look at bigdata
+I'm passionate about Typescript, React, NextJs, NestJs, Blockchain (solidity, rust) and also taking a look at bigdata
 
 Trying to improove my skills as a software engineer.
 
