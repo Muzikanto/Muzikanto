@@ -53,6 +53,6 @@ Trying to improove my skills as a software engineer.
 <img height="50" src="https://github.com/grafana/grafana/blob/main/docs/logo-horizontal.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
 <img height="80" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png">
-<img height="80" src="/maticnetwork/matic-docs/raw/master/static/img/polygon-logo.png">
+<img height="80" src="https://github.com/maticnetwork/matic-docs/maticnetwork/matic-docs/raw/master/static/img/polygon-logo.png">
        
 </div>
